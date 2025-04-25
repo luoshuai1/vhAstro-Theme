@@ -14,7 +14,7 @@ type: "links"
 
 ```yaml
 name: 小蟹蟹蟹蟹博客
-link: https://www.vvhan.com/
+link: https://www.soligen.cn/
 avatar: https://q1.qlogo.cn/g?b=qq&nk=1090625524&s=640
 desc: 运气是计划之外的东西.
 ```
