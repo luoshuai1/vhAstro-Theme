@@ -136,12 +136,12 @@ export default {
 	data: [
 		{
 			name: "小蟹蟹蟹蟹博客",
-			link: "https://luos-astro.luos.workers.dev",
+			link: "https://www.soligen.cn/",
 			avatar: "https://q1.qlogo.cn/g?b=qq&nk=1090625524&s=640",
 			descr: "运气是计划之外的东西."
 		},
 		{
-			name: "小蟹蟹蟹蟹API",
+			name: "韩小韩API",
 			link: "https://api.vvhan.com",
 			avatar: "https://api.vvhan.com/static/images/logo.webp",
 			descr: "免费Web API数据接口调用服务平台."
